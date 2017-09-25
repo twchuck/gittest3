@@ -12,4 +12,7 @@ public class Calculator3 {
 	}
 	public static void test3(int a ) {
 	}
+	public static void test4(int a ) {
+	}
+	
 }
