@@ -8,4 +8,6 @@ public class Calculator3 {
 	
 	public static void test(int a ) {
 	}
+	public static void test2(int a ) {
+	}
 }
