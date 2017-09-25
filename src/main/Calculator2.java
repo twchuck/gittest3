@@ -8,4 +8,6 @@ public class Calculator2 {
 	
 	public static void cal1() {
 	}
+	public static void cal2() {
+	}
 }
