@@ -14,5 +14,6 @@ public class Calculator3 {
 	}
 	public static void test4(int a ) {
 	}
-	
+	public static void test5(int a ) {
+	}
 }
