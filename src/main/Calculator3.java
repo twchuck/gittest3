@@ -10,4 +10,6 @@ public class Calculator3 {
 	}
 	public static void test2(int a ) {
 	}
+	public static void test3(int a ) {
+	}
 }
