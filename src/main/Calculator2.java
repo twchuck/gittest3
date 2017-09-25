@@ -12,4 +12,6 @@ public class Calculator2 {
 	}
 	public static void cal3() {
 	}
+	public static void cal4() {
+	}
 }
