@@ -10,4 +10,6 @@ public class Calculator2 {
 	}
 	public static void cal2() {
 	}
+	public static void cal3() {
+	}
 }
